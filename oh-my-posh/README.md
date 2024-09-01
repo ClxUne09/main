@@ -1,3 +1,5 @@
+# BaseC-v1.omp.json
+---
 # [A Basic Theme for OhMyPosh Written in JSON](src/BaseC-v1.omp.json)
 ![BaseC-v1 Terminal](img/BaseC-v1%20Terminal.png)
 ![BaseC-v1 Theme.png](img/BaseC-v1%20Theme.png)
